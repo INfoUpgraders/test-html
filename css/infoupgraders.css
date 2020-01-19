@@ -1,0 +1,22 @@
+body{
+	margin: 0px;
+	font-family: 'Alata', sans-serif;
+}
+
+header{
+	background: #6DA862;
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 25px;
+}
+
+header h1{
+	color: white;
+
+}
+
+header img{
+	border-radius: 140px;
+	width: 250px;
+	border: 15px solid white;
+}
