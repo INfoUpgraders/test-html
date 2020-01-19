@@ -1,33 +1,53 @@
-body{
+body {
 	margin: 0px;
 	font-family: 'Alata', sans-serif;
+	font-size: 20px;
 }
 
-header{
+header {
 	background: #6DA862;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
-header h1{
-	color: white;
+header h1 {
+	color: #dcdcdc;
 	font-size: 50px;
 
 }
 
-header img{
+header img {
 	border-radius: 140px;
 	width: 250px;
-	border: 15px solid white;
+	border: 15px solid #dcdcdc;
 }
 
-main{
+main {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 20px;
 }
 
-main img{
+main img {
 	max-width: 100%;
+}
+
+h2 {
+	font-size: 30px;
+	color: #2c2c2c;
+	line-height: 30px;
+}
+
+a {
+	color: #2c2c2c;
+}
+
+a:hover {
+	color: #6DA862;
+}
+
+footer {
+	background-color: #6DA862;
+	text-align: center;
 }
